@@ -1,0 +1,21 @@
+# Training artifacts (large, regenerate by running train.py)
+results/
+emotion-classifier-model/
+wandb/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+venv/
+.venv/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Env/secrets
+.env
